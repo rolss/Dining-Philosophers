@@ -1,11 +1,11 @@
-# Animation showing Dining Philosophers problem.
+# Dining Philosophers Problem Animation 🍜
 
-## How to use
+## How to use 🔍
 1. Run main.java
 2. In the GUI, select a speed with which the algorithm will run. This will make the process faster or slower
 3. Click the "Iniciar" button to start the algorithm
 
-## General information
+## General information ℹ️
 The menu at the left will indicate a log of what each philosopher is doing at current time
 The menu at the right indicates how many times a philosopher has eaten, and how many he has to eat in total. These values are set randomly for each iteration of the algorithm
 The information box at the bottom left, indicates the four possible states that a philosopher may have, explained below:
